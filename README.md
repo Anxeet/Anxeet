@@ -21,15 +21,10 @@ Side Quests (When I'm not scratching my head at 2 AM):
 <br><br>
 My code is a lot like my coffee: strong, a little unpredictable, and sometimes the reason I’m up late fixing things. Most of the time you'll find me building web projects 🌐, experimenting with data 📊, and trying out new tech just to see what I can create. 
 
-<!-- Portfolio -->
 
-<h2 align="center">🌐My Portfolio</h2>
 
-<p align="center">
-  <a href="https://ankeeet.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/%20View%20My%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+
+
 <picture>
   <source
     media="(prefers-color-scheme:dark)"
@@ -46,6 +41,22 @@ My code is a lot like my coffee: strong, a little unpredictable, and sometimes t
 </picture>
 
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,tailwind,figma&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,firebase,kafka,linux,git&theme=dark" />
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/awnkeeeeeeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xbhuvi" height="40" width="50" /></a>
@@ -57,6 +68,17 @@ My code is a lot like my coffee: strong, a little unpredictable, and sometimes t
 <a href="https://discord.com/users/mr_spideyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1167024499196170291" height="40" width="50" /></a>
 </p>
 
+
+
+
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://ankeeet.netlify.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rocket&theme=dark" width="45" alt="Portfolio" />
+  </a>
+  <br/>
+
+</p>
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/bhuviii03"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="https://buymeacoffee.com/bhuviii03" /></a></p>
