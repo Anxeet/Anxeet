@@ -9,18 +9,12 @@
 
 I'm a 22-year-old tech explorer 👨‍💻 who enjoys building web applications 🌐, experimenting with data 📊, and breaking down complex systems just to understand how they work ⚙️. Most days you'll find me switching between terminal windows 💻, Git commits 🔧, and coffee ☕ while chasing bugs and building projects that push my skills further.
 <br><br>
-Side Quests (When I'm not scratching my head at 2 AM):
-<br>
-- 🎮 Gaming Mode: Playing games to recharge my brain after long coding sessions.
-<br>
-- 🎧 Old-School Vibes: Listening to classic tracks while writing code late at night.
-<br>
-- 🐛 Bug Hunter: Tracking down stubborn bugs hiding in perfectly “working” code.
-<br>
-- 📏 CSS Boss Fight: Trying to center a div… and wondering why it still isn’t centered.
-<br><br>
-My code is a lot like my coffee: strong, a little unpredictable, and sometimes the reason I’m up late fixing things. Most of the time you'll find me building web projects 🌐, experimenting with data 📊, and trying out new tech just to see what I can create. 
 
+
+### Side Quests (When I'm not scratching my head at 2 AM):
+- 🎮Gaming to recharge after long coding sessions.<br>
+- 🎧Old-school tracks playing in the background.<br>
+- 🤯Snatching my head when a bug refuses to make sense.<br>
 
 
 
