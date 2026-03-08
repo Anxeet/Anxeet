@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ankit kumar</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align:middle" alt="hi"/> 
+  I'm <span style="color:#e63946">Ankit kumar</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;Backend+Systems+Builder;Bug+Hunter;Late+Night+Coding+%2B+Old+School+Music;Always+Learning+Something+New" />
+</p>
+<br>
 I'm a 22-year-old tech explorer 👨‍💻 who enjoys building web applications 🌐, experimenting with data 📊, and breaking down complex systems just to understand how they work ⚙️. Most days you'll find me switching between terminal windows 💻, Git commits 🔧, and coffee ☕ while chasing bugs and building projects that push my skills further.
 <br><br>
 Side Quests (When I'm not scratching my head at 2 AM):
