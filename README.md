@@ -46,7 +46,7 @@ I'm a 22-year-old tech explorer 👨‍💻 who enjoys building web applications
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,firebase,kafka,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,mysql,firebase,linux,git&theme=dark" />
 </p>
 
 
